@@ -1,9 +1,9 @@
 # MERN Thinkboard
-This is a MERN stack–based note-taking application that enables users to create, edit, and delete notes efficiently. It uses React for the frontend, Node.js and Express for backend APIs, and MongoDB for data storage. The application follows RESTful architecture to ensure structured and maintainable API design. API performance and reliability are enhanced through request rate limiting using Upstash Redis. The project demonstrates full-stack development practices, scalability considerations, and clean integration between frontend and backend services.
+🔴This is a MERN stack–based note-taking application that enables users to create, edit, and delete notes efficiently. It uses React for the frontend, Node.js and Express for backend APIs, and MongoDB for data storage. The application follows RESTful architecture to ensure structured and maintainable API design. API performance and reliability are enhanced through request rate limiting using Upstash Redis. The project demonstrates full-stack development practices, scalability considerations, and clean integration between frontend and backend services.
 
 ## Features
 
-*  CRUD Functionality – Supports creating, retrieving, updating, and deleting notes through well-structured RESTful APIs.
+* CRUD Functionality – Supports creating, retrieving, updating, and deleting notes through well-structured RESTful APIs.
 * MERN Stack Implementation – Utilizes MongoDB for data persistence, Express.js and Node.js for backend services, and React for frontend development.
 * Scalable REST API Architecture – Designed following REST principles to ensure modularity, maintainability, and scalability.
 * Optimized Frontend Performance – Built with React and Vite to deliver a responsive and efficient user experience.
