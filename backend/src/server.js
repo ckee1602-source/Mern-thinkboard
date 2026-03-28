@@ -3,7 +3,7 @@ import notesRoutes from "./routes/notesRoutes.js";
 import {connectDB} from "./config/db.js";
 import dotenv from "dotenv";
 import path from "path";
-import rateLimiter from "./middleware/rateLimiter.js";
+import ratelimiter from "./middleware/ratelimiter.js";
 
 import cors from "cors";
 
